@@ -1,0 +1,29 @@
+SELECT tablespace_name
+FROM dba_tablespaces;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
