@@ -27,6 +27,8 @@ ON TEST2;
 GRANT CREATE session
 TO USER;
 
+GRANT CREATE table
+TO USER; 
 
 
 
