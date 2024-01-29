@@ -32,7 +32,9 @@ TO USER;
 
 CREATE TABLE STU1
 (
-
+    id NUMBER(10), 
+    name VARCHAR2(30),
+    age NUMBER(2)
 );
 
 
