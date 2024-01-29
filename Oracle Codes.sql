@@ -30,6 +30,10 @@ TO USER;
 GRANT CREATE table
 TO USER; 
 
+CREATE TABLE STU1
+(
+
+);
 
 
 
