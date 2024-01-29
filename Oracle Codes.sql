@@ -41,6 +41,12 @@ SELECT table_name, tablespace_name
 FROM dba_tables
 WHERE table_name = 'STU1';
 
+CREATE TABLE STU2 
+(
+    id NUMBER(10), 
+    name VARCHAR2(30),
+    age NUMBER(2)
+)
 
 
 
