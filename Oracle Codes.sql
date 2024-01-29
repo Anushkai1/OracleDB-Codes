@@ -37,7 +37,9 @@ CREATE TABLE STU1
     age NUMBER(2)
 );
 
-
+SELECT table_name, tablespace_name
+FROM dba_tables
+WHERE table_name = 'STU1';
 
 
 
