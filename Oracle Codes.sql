@@ -49,7 +49,9 @@ CREATE TABLE STU2
 )
 TABLESPACE JPURA1;
 
-
+SELECT table_name, tablespace_name
+FROM dba_tables
+WHERE table_name = 'STU2';
 
 
 
