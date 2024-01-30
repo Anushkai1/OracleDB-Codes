@@ -53,6 +53,7 @@ SELECT table_name, tablespace_name
 FROM dba_tables
 WHERE table_name = 'STU2';
 
+CONN user/abc;
 
 
 
