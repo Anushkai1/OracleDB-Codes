@@ -47,7 +47,7 @@ CREATE TABLE STU2
     name VARCHAR2(30),
     age NUMBER(2)
 )
-
+TABLESPACE JPURA1;
 
 
 
