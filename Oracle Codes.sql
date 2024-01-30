@@ -64,7 +64,7 @@ VALUES ('1','asd', 23);
 
 SELECT * FROM STU2
 
-
+ROLLBACK;
 
 
 
