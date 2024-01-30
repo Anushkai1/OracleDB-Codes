@@ -62,7 +62,7 @@ WHERE table_name = 'STU2';
 INSERT INTO STU2 
 VALUES ('1','asd', 23);
 
-
+SELECT * FROM STU2
 
 
 
