@@ -76,3 +76,4 @@ SELECT * FROM STU2
 
 SELECT name FROM v$database;
 
+SELECT server from v$session;
