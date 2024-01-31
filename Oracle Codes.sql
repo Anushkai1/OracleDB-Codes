@@ -74,3 +74,5 @@ COMMIT;
 
 SELECT * FROM STU2
 
+SELECT name FROM v$database;
+
